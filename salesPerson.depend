@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1643295263 source:c:\crush\cs\my program\salesperson\main.cpp
+	<iostream>
+	"salesPerson.h"
+
+1643295370 c:\crush\cs\my program\salesperson\salesperson.h
+
+1643295377 source:c:\crush\cs\my program\salesperson\salesperson.cpp
+	<iostream>
+	<iomanip>
+	"salesPerson.h"
+
